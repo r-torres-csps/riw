@@ -210,9 +210,9 @@ max-height: 125px!important;
 /* testing custon riw styles*/
 
 /* carousel styles*/
-      .carousel-caption {
-         background-color: rgba(0, 0, 0, 0.4); 
-         width: 70em; height: auto;
-         margin: 0; 
-         justify-content: center;
+ .carousel-caption {
+   background-color: rgba(0, 0, 0, 0.4); 
+   width: 70em; height: auto;
+   margin: 0; 
+   justify-content: center;
 }
