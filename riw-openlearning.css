@@ -216,3 +216,10 @@ max-height: 125px!important;
    margin: 0; 
    justify-content: center;
 }
+
+/* buttons */
+
+.btn {
+  background-color: #3F2A56;
+  color: #fefefe;
+}
